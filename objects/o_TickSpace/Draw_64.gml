@@ -1,0 +1,1 @@
+draw_healthbar(4,4,250,20,(global.ticks/global.ticks_required)*100,c_black,c_white,c_white,0,true,false);

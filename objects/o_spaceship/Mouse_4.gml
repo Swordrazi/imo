@@ -1,3 +1,4 @@
+/*
 /// @description Clicking to Multiply
 clicks_++;
 if (clicks_ >= clicks_to_multiply_) {
