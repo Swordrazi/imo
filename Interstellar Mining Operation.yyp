@@ -34,7 +34,7 @@
   },
   "name":"Interstellar Mining Operation",
   "resources":[
-    {"id":{"name":"fnt_one","path":"fonts/fnt_one/fnt_one.yy",},},
+    {"id":{"name":"fnt_info","path":"fonts/fnt_info/fnt_info.yy",},},
     {"id":{"name":"o_button_tab","path":"objects/o_button_tab/o_button_tab.yy",},},
     {"id":{"name":"o_menu_basic","path":"objects/o_menu_basic/o_menu_basic.yy",},},
     {"id":{"name":"o_planet_entrance","path":"objects/o_planet_entrance/o_planet_entrance.yy",},},
@@ -42,6 +42,7 @@
     {"id":{"name":"o_TickSpace","path":"objects/o_TickSpace/o_TickSpace.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"scr_general","path":"scripts/scr_general/scr_general.yy",},},
+    {"id":{"name":"scr_planets","path":"scripts/scr_planets/scr_planets.yy",},},
     {"id":{"name":"s_background_space","path":"sprites/s_background_space/s_background_space.yy",},},
     {"id":{"name":"s_menu_basic","path":"sprites/s_menu_basic/s_menu_basic.yy",},},
     {"id":{"name":"s_planet_entrance","path":"sprites/s_planet_entrance/s_planet_entrance.yy",},},

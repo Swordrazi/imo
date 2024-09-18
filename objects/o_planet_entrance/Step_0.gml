@@ -1,0 +1,1 @@
+image_index = min(global.planet_depth-1,26);
